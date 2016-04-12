@@ -1,0 +1,23 @@
+{
+  "name": "g-image-search",
+  "version": "1.0.2",
+  "description": "Another Google Image Search Node module",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:stefanhayden/g-image-search.git"
+  },
+  "dependencies": {
+    "requestify": "^0.1.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stefan Hayden",
+  "license": "MIT",
+	"homepage": "https://github.com/stefanhayden/g-image-search",
+	"bugs": {
+    "url": "https://github.com/stefanhayden/g-image-search/issues"
+  }
+}
